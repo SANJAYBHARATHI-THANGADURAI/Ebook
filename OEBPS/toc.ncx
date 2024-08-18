@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+<head>
+	<meta name="dtb:uid" content="URN:ISBN 978-1-78778-159-7"/>
+	<meta name="dtb:depth" content="1"/>
+	<meta name="dtb:totalPageCount" content="207"/>
+	<meta name="dtb:maxPageNumber" content="207"/>
+</head>
+<docTitle><text>ITTL</text></docTitle>
+<navMap>
+<navPoint id="toc1" playOrder="1"><navLabel><text>Cover</text></navLabel><content src="xhtml/cover.html"/></navPoint>
+<navPoint id="toc2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="xhtml/title.html"/></navPoint>
+<navPoint id="toc3" playOrder="3"><navLabel><text>Copyright</text></navLabel><content src="xhtml/copyright.html"/></navPoint>
+<navPoint id="toc4" playOrder="4"><navLabel><text>Foreward</text></navLabel><content src="xhtml/frontmater1.html"/></navPoint>
+<navPoint id="toc5" playOrder="5"><navLabel><text>Preface</text></navLabel><content src="xhtml/frontmater2.html"/></navPoint>
+<navPoint id="toc6" playOrder="6"><navLabel><text>About the Author</text></navLabel><content src="xhtml/frontmater3.html"/></navPoint>
+<navPoint id="toc7" playOrder="7"><navLabel><text>Acknowledgements</text></navLabel><content src="xhtml/frontmater4.html"/></navPoint>
+<navPoint id="toc8" playOrder="8"><navLabel><text>Content</text></navLabel><content src="xhtml/content.html"/></navPoint>
+<navPoint id="toc9" playOrder="9"><navLabel><text>Key Concept of Serivce Management</text></navLabel><content src="xhtml/chapter1.html"/></navPoint>
+<navPoint id="toc10" playOrder="10"><navLabel><text>Service Mangement Role</text></navLabel><content src="xhtml/chapater2.html"/></navPoint>
+<navPoint id="toc11" playOrder="11"><navLabel><text>All Abourt Service</text></navLabel><content src="xhtml/chapater3.html"/></navPoint>
+<navPoint id="toc12" playOrder="12"><navLabel><text>Service Relationship</text></navLabel><content src="xhtml/chapater4.html"/></navPoint>
+<navPoint id="toc13" playOrder="13"><navLabel><text>The Four Dimension of Service</text></navLabel><content src="xhtml/chapater5.html"/></navPoint>
+<navPoint id="toc14" playOrder="14"><navLabel><text>The Service Value System</text></navLabel><content src="xhtml/chapater6.html"/></navPoint>
+<navPoint id="toc15" playOrder="15"><navLabel><text>The SVS: Opportunity, demand, value</text></navLabel><content src="xhtml/chapater7.html"/></navPoint>
+<navPoint id="toc16" playOrder="16"><navLabel><text>The SVS: Guiding principles</text></navLabel><content src="xhtml/chapater8.html"/></navPoint>
+<navPoint id="toc17" playOrder="17"><navLabel><text>The SVS: Governance</text></navLabel><content src="xhtml/chapater9.html"/></navPoint>
+<navPoint id="toc18" playOrder="18"><navLabel><text>The SVS: The Service Value Chain</text></navLabel><content src="xhtml/chapater10.html"/></navPoint>
+</navMap>
+</ncx>

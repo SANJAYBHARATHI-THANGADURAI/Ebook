@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="p9781787781597">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<dc:title>ITTL</dc:title>
+	<dc:creator>CLAIRE AGUTTER</dc:creator>
+	<dc:source>text</dc:source>
+	<dc:identifier id="p9781787781597">URN:ISBN:978-1-78778-159-7</dc:identifier>
+	<dc:publisher>IT Governance Publishing</dc:publisher>
+        <dc:date>2022</dc:date>
+        <dc:type>Text</dc:type>
+	<dc:language>en</dc:language>
+	<dc:format>207</dc:format>
+	<dc:rights>All rights reserved</dc:rights>
+</metadata>
+<manifest>
+	<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="stylesheet" href="styles/stylesheet.css" media-type="text/css"/>
+	<item id="cover"  href="xhtml/cover.html" media-type="application/xhtml+xml"/>
+	<item id="halftitle" href=" xhtml/halftitle.html" media-type="application/xhtml+xml"/>
+	<item id="title" href="xhtml/title.html" media-type="application/xhtml+xml"/>
+	<item id="copyright" href="xhtml/copyright.html" media-type="application/xhtml+xml"/>
+        <item id="content" href="xhtml/content.html" media-type="application/xhtml+xml"/>
+        <item id="frontmatter1" href="xhtml/frontmatter1.html" media-type="application/xhtml+xml"/>
+	<item id="frontmatter2" href="xhtml/frontmatter2.html" media-type="application/xhtml+xml"/>
+	<item id="frontmatter3" href="xhtml/frontmatter3.html" media-type="application/xhtml+xml"/>
+        <item id="frontmatter4" href="xhtml/frontmatter4.html" media-type="application/xhtml+xml"/>
+	<item id="chapter01" href="xhtml/chapter01.html" media-type="application/xhtml+xml"/>
+	<item id="chapter02" href="xhtml/chapter02.html" media-type="application/xhtml+xml"/>
+	<item id="chapter03" href="xhtml/chapter03.html" media-type="application/xhtml+xml"/>
+	<item id="chapter04" href="xhtml/chapter04.html" media-type="application/xhtml+xml"/>
+	<item id="chapter05" href="xhtml/chapter05.html" media-type="application/xhtml+xml"/>
+	<item id="chapter06" href="xhtml/chapter06.html" media-type="application/xhtml+xml"/>
+	<item id="chapter07" href="xhtml/chapter07.html" media-type="application/xhtml+xml"/>
+	<item id="chapter08" href="xhtml/chapter08.html" media-type="application/xhtml+xml"/>
+	<item id="chapter09" href="xhtml/chapter09.html" media-type="application/xhtml+xml"/>
+	<item id="chapter10" href="xhtml/chapter10.html" media-type="application/xhtml+xml"/>
+	<item id="my-cover-image" href="images/Cover.jpg" media-type="image/jpeg"/>
+	<item id="fig1" href="images/fig1.jpg" media-type="image/jpeg"/>
+	<item id="fig2" href="images/fig2.jpg" media-type="image/jpeg"/>
+        <item id="fig3" href="images/fig3.jpg" media-type="image/jpeg"/>
+	<item id="fig4" href="images/fig4.jpg" media-type="image/jpeg"/>
+	<item id="fig5" href="images/fig5.jpg" media-type="image/jpeg"/>
+        <item id="fig6" href="images/fig6.jpg" media-type="image/jpeg"/>
+	<item id="fig7" href="images/fig7.jpg" media-type="image/jpeg"/>
+	<item id="fig8" href="images/fig8.jpg" media-type="image/jpeg"/>
+        <item id="fig9" href="images/fig9.jpg" media-type="image/jpeg"/>
+	<item id="fig10" href="images/fig10.jpg" media-type="image/jpeg"/>
+	<item id="fig11" href="images/fig11.jpg" media-type="image/jpeg"/>
+        <item id="fig12" href="images/fig12.jpg" media-type="image/jpeg"/>
+	<item id="fig13" href="images/fig13.jpg" media-type="image/jpeg"/>
+	<item id="fig14" href="images/fig14.jpg" media-type="image/jpeg"/>
+        <item id="fig15" href="images/fig15.jpg" media-type="image/jpeg"/>
+	<item id="fig16" href="images/fig16.jpg" media-type="image/jpeg"/>
+        <item id="fig17" href="images/ea.jpg" media-type="image/jpeg"/>
+	<item id="fig18" href="images/re.jpg" media-type="image/jpeg"/>
+        <item id="fig19" href="images/line.jpg" media-type="image/jpeg"/>
+</manifest>
+<spine toc="ncx">
+	<itemref idref="cover" />
+	<itemref idref="halftitle" />
+	<itemref idref="title" />
+        <itemref idref="copyright"/>
+        <itemref idref="content"/>
+	<itemref idref="frontmatter1" />
+	<itemref idref="frontmatter2" />
+	<itemref idref="frontmatter3" />
+	<itemref idref="frontmatter4" />
+        <itemref idref="chapter01" />
+	<itemref idref="chapter02" />
+	<itemref idref="chapter03" />
+	<itemref idref="chapter04" />
+	<itemref idref="chapter05" />
+	<itemref idref="chapter06" />
+	<itemref idref="chapter07" />
+	<itemref idref="chapter08" />
+	<itemref idref="chapter09" />
+	<itemref idref="chapter10" />
+</spine>
+<guide>
+<reference type="text" title=" Cover page " href="xhtml/cover.html"/>
+<reference type="text1" title="Title page" href="xhtml/title.html"/>
+<reference type="copyright-page" title="Copyright page" href="xhtml/copyright.html"/>
+</guide>
+</package>
